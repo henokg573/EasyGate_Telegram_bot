@@ -1,0 +1,4 @@
+import os
+
+TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '7811968483:AAErsdkvEP20rmN1C0je16GevWveW8OF2Gs')
+ADMIN_CHAT_ID = os.getenv('ADMIN_CHAT_ID', '793034140')
